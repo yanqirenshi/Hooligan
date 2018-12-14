@@ -14,9 +14,9 @@ Web アプリのテンプレートです。
 # Dependencies
 
 | Name                                                        | Description                      |
-|-------------------------------------------------------------+----------------------------------|
+|-------------------------------------------------------------|---------------------------------- |
 | [Ghost](https://github.com/yanqirenshi/ghost)               | ユーザー認証するためのライブラリ |
-| [Strobolights](https://github.com/yanqirenshi/strobolights) | Webサーバー                      |
+| [Strobolights](https://github.com/yanqirenshi/strobolights) | アプリサーバー                         |
 | [Sephirothic](https://github.com/yanqirenshi/sephirothic)   | 設定管理                         |
 
 # Author
